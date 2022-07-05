@@ -1,4 +1,4 @@
-<div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="32px"/> Ekmin Samaraweera </h1></div>
+<div align="center"><h1> Hi, I am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="32px"/> Ekmin Samaraweera </h1></div>
 <h3 align="center">A passionate full stack developer who codes everytime possible.</h3>
 
 # About Me
