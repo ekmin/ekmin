@@ -3,6 +3,7 @@
 
 # About Me
 - 🌱 I’m currently learning solidity 
+- I regularly write articles on https://hashnode.com/
 - 💬 Ask me about JavaScript,React.js, Node.js, Java 
 - 📫 How to reach me ekmin.samaraweera@gmail.com
 
