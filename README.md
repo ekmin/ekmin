@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer who codes everytime possible.</h3>
 
 # About Me
-- 🌱 I’m currently learning Web3 
+- 🌱 I’m currently learning AI/ML
 - 📝 I write articles on https://ekmin.hashnode.dev/
 - 💬 Ask me about JavaScript,React.js, Node.js, Java 
 - 📫 How to reach me ekmin.samaraweera@gmail.com
