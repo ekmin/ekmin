@@ -4,7 +4,7 @@
 # About Me
 - 🌱 I’m currently learning AI/ML
 - 📝 I write articles on https://ekmin.hashnode.dev/
-- 💬 Ask me about JavaScript,React.js, Node.js, Java 
+- 💬 Ask me about JavaScript,React.js, Node.js, Java, Python
 - 📫 How to reach me ekmin.samaraweera@gmail.com
 - 💫 Interested on AI/ML, Blockchain, Robotics, IOT, Web development
 
