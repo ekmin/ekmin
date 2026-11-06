@@ -3,7 +3,7 @@
 
 # About Me
 - 🌱 I’m currently learning AI/ML
-- 🌐 Here's my personal [portfolio](https://portfolio-ekmins-projects.vercel.app/)
+- 🌐 Here's my personal [portfolio](https://ekmin.dev/)
 - 📝 I write articles on https://ekmin.hashnode.dev/
 - 💬 Ask me about JavaScript,React.js, Node.js, Java, Python
 - 📫 How to reach me ekmin.samaraweera@gmail.com
